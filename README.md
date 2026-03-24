@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there :sunglasses:
 
-<!--
-**douglasrmorais/douglasrmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Douglas Morais, Desenvolvedor Full Stack em formação!
+<br>
+<br>
+Atualmente estou exercitando meus conhecimentos com algumas tecnologias que já conheço:
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,git,github)](https://skillicons.dev)
+<br>
+<br>
+Conecte-se comigo:
+<br>
+<br>
+<a href="https://www.instagram.com/douglas_morais.75?igsh=ajkyZjJ5ODI4cnc2">
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+</a>
+<a href="www.linkedin.com/in/douglas-rodrigues-24a3253b3">
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</a>
+<br>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmorais)](https://github.com/anuraghazra/github-readme-stats)
