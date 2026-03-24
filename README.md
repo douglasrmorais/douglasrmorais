@@ -3,13 +3,13 @@
 Eu sou Douglas Morais, Desenvolvedor Full Stack em formação!
 <br>
 <br>
-<p>Atualmente estou exercitando meus conhecimentos com algumas tecnologias que já conheço:</p>
+Atualmente estou exercitando meus conhecimentos com algumas tecnologias que já conheço:
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,git,github)](https://skillicons.dev)
 <br>
 <br>
- <p>Conecte-se comigo:</p>
+Conecte-se comigo:
 <br>
 <br>
 <a href="https://www.instagram.com/douglas_morais.75?igsh=ajkyZjJ5ODI4cnc2">
