@@ -1,4 +1,4 @@
-## Hi there :sunglasses:
+## Olá :sunglasses:
 
 Eu sou Douglas Morais, Desenvolvedor Full Stack em formação!
 <br>
