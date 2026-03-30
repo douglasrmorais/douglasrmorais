@@ -10,4 +10,4 @@ Atualmente estou exercitando meus conhecimentos com algumas tecnologias que já 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmorais)](https://github.com/anuraghazra/github-readme-stats)
+
